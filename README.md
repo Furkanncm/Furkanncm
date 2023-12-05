@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Çam</h1>
-<h3 align="center">A passionate Android developer from Turkiye</h3>
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A Android developer from Turkiye</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanncm&label=Profile%20views&color=0e75b6&style=flat" alt="furkanncm" /> </p>
 
