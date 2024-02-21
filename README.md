@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/furkann_cm" target="blank"><img src="https://img.shields.io/twitter/follow/furkann_cm?logo=twitter&style=for-the-badge" alt="furkann_cm" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin,SQL**
+- 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **furkankazimc@gmail.com**
+- 📫 How to reach me **dev.furkankazimcam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
