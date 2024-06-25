@@ -22,6 +22,3 @@
 
 <p><img backcolor="black" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanncm&show_icons=true&locale=en&layout=compact" alt="furkanncm" /></p>
 
-<p>&nbsp;<img backcolor="black" align="center" src="https://github-readme-stats.vercel.app/api?username=furkanncm&show_icons=true&locale=en" alt="furkanncm" /></p>
-
-<p><img backcolor="black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanncm&" alt="furkanncm" /></p>
